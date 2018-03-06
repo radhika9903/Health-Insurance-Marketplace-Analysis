@@ -1,0 +1,2 @@
+# Health-Insurance-Marketplace-Analysis
+The project analyzes health insurance and dental plans offered through healthcare.gov. It encompasses rates for smokers and non-smokers, separately listed for each age group, benefits included in the plans, states in which the plans were offered, and other information. The analysis steps includes the processing of raw data from Kaggle datasets and further Cleaning, Analysis and Visualization
